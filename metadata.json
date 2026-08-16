@@ -1,0 +1,6 @@
+{
+  "name": "حساباتي",
+  "description": "تطبيق بسيط لتسجيل الوارد والصادر النقدي للنجار وعمل حسابات العملاء",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
